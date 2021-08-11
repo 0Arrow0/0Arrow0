@@ -29,4 +29,10 @@
 </div>
 <br>
 
+<!-- Descriptor !-->
+<p align="center">
+  This was totally not stolen from @DamienVesper.
+</p>
+<br>
+
 
