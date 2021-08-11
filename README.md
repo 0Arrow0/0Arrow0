@@ -29,17 +29,4 @@
 </div>
 <br>
 
-<!-- Technology Stack !-->
-<h2 align="center">Technology Stack</h2>
 
-<!-- Framework Badges !-->
-<div align="center">
-  <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?style=for-the-badge&logo=nginx"></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</div>
-
-<!-- Library Badges !-->
-<div align="center">
-  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black"></a>
-  <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord.js-%232B61B3?style=for-the-badge"></a>
-</div>
