@@ -13,6 +13,7 @@
 <!-- Descriptor !-->
 <p align="center">
   Hi! I'm Arrow. Thats Bout All I Can Say. I'm A SysAdmin At Alliance Reunited And I'm The King Of Breaking Things.
+  Currently Working On Plutonium T6 Servers + Gmod DarkRP.
 </p>
 <br>
 
@@ -30,8 +31,8 @@
 <br>
 
 <!-- Descriptor !-->
-<p align="center">
-  This was totally not stolen from @DamienVesper.
+<p align="left">
+  This was totally not stolen from DamienVesper.
 </p>
 <br>
 
