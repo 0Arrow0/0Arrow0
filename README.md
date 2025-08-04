@@ -18,9 +18,8 @@
 
 <!-- Social Badges !-->
 <div align="center">
-  <a href="https://discord.alru.ga"><img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://reddit.com/u/Limp-Secretary538"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="mailto:joshuuabutel207@gmail.com"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.banabyte.com"><img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:jbutel@banabyte.net"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <br>
   <br>
